@@ -2,7 +2,7 @@
 
 int main()
 {
-   int a=3;
+   int a=30;
    int b=4;
    int c,d;
    c=a+b;
