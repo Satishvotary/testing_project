@@ -8,6 +8,6 @@ int main()
    c=a+b;
    d=a-b;
   printf("the sum result is: %d",c);
-  prinf("the sub result is:%d",d);
+  printf("the sub result is:%d",d);
 
 }
