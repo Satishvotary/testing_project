@@ -2,8 +2,8 @@
 
 int main()
 {
-   int a=100;
-   int b=4,v;
+   int a=1000;
+   int b=40,v;
    int c,d;
    c=a+b;
    d=a-b;
